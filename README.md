@@ -1,5 +1,7 @@
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/117826ae-9bb8-4c3e-983e-b99d923ed73a.svg?orgId=421885052121)](https://app.soluble.cloud/repos/details/github.com/etherbop/m1?orgId=421885052121)  
+
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
 *We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
